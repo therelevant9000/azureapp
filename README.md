@@ -7,4 +7,3 @@
 grow into a MERN app. The goal is to run a store with a payment backend.
 3. I will add more goals and clarifications to this readme as i go, so TBA
 
-triiger
