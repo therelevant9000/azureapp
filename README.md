@@ -6,3 +6,5 @@
 2. This will start as a simple static webpage using vanilla html + css and
 grow into a MERN app. The goal is to run a store with a payment backend.
 3. I will add more goals and clarifications to this readme as i go, so TBA
+
+triiger
