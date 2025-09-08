@@ -1,5 +1,5 @@
 FROM ubuntu 
-RUN sudo apt update 
+RUN sudo apt update -y
 RUN sudo apt install –y apache2 
 RUN sudo apt install –y apache2-utils 
 RUN sudo apt clean 
